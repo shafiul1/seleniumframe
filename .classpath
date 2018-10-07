@@ -2,5 +2,17 @@
 <classpath>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="/Users/shafiul/eclipse-workspace/git/seleniumframe/seleniumframe/jars/byte-buddy-1.8.3.jar"/>
+	<classpathentry kind="lib" path="/Users/shafiul/eclipse-workspace/git/seleniumframe/seleniumframe/jars/client-combined-3.13.0-sources.jar"/>
+	<classpathentry kind="lib" path="/Users/shafiul/eclipse-workspace/git/seleniumframe/seleniumframe/jars/client-combined-3.13.0.jar"/>
+	<classpathentry kind="lib" path="/Users/shafiul/eclipse-workspace/git/seleniumframe/seleniumframe/jars/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="/Users/shafiul/eclipse-workspace/git/seleniumframe/seleniumframe/jars/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="/Users/shafiul/eclipse-workspace/git/seleniumframe/seleniumframe/jars/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="/Users/shafiul/eclipse-workspace/git/seleniumframe/seleniumframe/jars/gson-2.8.4.jar"/>
+	<classpathentry kind="lib" path="/Users/shafiul/eclipse-workspace/git/seleniumframe/seleniumframe/jars/guava-25.0-jre.jar"/>
+	<classpathentry kind="lib" path="/Users/shafiul/eclipse-workspace/git/seleniumframe/seleniumframe/jars/httpclient-4.5.5.jar"/>
+	<classpathentry kind="lib" path="/Users/shafiul/eclipse-workspace/git/seleniumframe/seleniumframe/jars/httpcore-4.4.9.jar"/>
+	<classpathentry kind="lib" path="/Users/shafiul/eclipse-workspace/git/seleniumframe/seleniumframe/jars/okhttp-3.10.0.jar"/>
+	<classpathentry kind="lib" path="/Users/shafiul/eclipse-workspace/git/seleniumframe/seleniumframe/jars/okio-1.14.1.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
